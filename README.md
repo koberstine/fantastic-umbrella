@@ -18,7 +18,9 @@ Download source code and run 'npm intall' from main directory.
 
 Application is not deployed at this time
 
-## Screenshot
+## Demonstration
+
+![](https://github.com/koberstine/fantastic-umbrella/blob/main/demonstration.mp4)
 
 ## Credits
 
